@@ -1,0 +1,16 @@
+<resources>
+<string name="app_name">eee</string>
+
+<string name="hello_world">Hello world!</string>
+<string name="action_settings">Settings</string>
+
+    <string name="bttext">显示toastc</string>
+    <string name="todo">TODO</string>
+    <string name="aler_dialog1_1">显示一个自定义的对话框</string>
+
+    <string name="font_blue">蓝色</string>
+    <string name="font_green">绿色</string>
+    <string name="font_red">红色</string>
+
+
+</resources>
